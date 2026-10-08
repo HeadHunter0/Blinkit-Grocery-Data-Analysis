@@ -1,4 +1,3 @@
-Blinkit GitHub README — Copy Ready
 
 # 🛒 Blinkit Grocery Data Analysis
 
